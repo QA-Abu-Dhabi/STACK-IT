@@ -6,7 +6,7 @@
 ## Задание 2.
 Папка с проектом для второго задания располагается тут: [Stack](./Stack)
 
-Видео выполнения автотестов в Cypress представлено на [youtube](https://youtu.be/ecKgtSvN-P4)
+Видео выполнения автотестов в Cypress представлено на [youtube](https://youtu.be/FtNF2HrEKBc)
 
 ## * Дополнительное задание
 Найденные дефекты оформлены в виде баг-репорта в [гугл-таблице](https://docs.google.com/spreadsheets/d/1Ae2IEUjI7zj8tFMwuySexC8VRySEdVRCAebccGpBWSQ/edit).
