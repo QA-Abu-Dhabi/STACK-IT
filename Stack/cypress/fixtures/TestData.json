@@ -1,0 +1,162 @@
+[
+  {
+  "Name": "1234500",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "District@2",
+  "NewNumber": "1",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "0",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "District#City2",
+  "NewNumber": "1",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "-111",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "!Name2",
+  "NewNumber": "1",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "-999999999",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "District*Ufa",
+  "NewNumber": "1",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "Йцукесмить",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "$District567",
+  "NewNumber": "1",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "Hello",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "3333",
+  "NewNumber": "-999999",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "AZWE*/-+!@#$%^&*()_|",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "4444",
+  "NewNumber": "999999",
+  "NewExpected": "passed"
+  },
+  {
+  "Name": "District@1",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "!!!!!",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "District#City",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "12A",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "!Название",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "12345XYZ",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "Советский",
+  "Number": "0",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "___",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "Ильинский",
+  "Number": "1",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "12A",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "Орджонекидзевский",
+  "Number": "-1",
+  "Expected": "passed",
+  "NewName": "Ленинский",
+  "NewNumber": "123.45",
+  "NewExpected": "failed"
+  },
+  {
+  "Name": "22222",
+  "Number": "-999999",
+  "Expected": "passed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "9999999",
+  "Number": "999999",
+  "Expected": "passed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "",
+  "Number": "1",
+  "Expected": "failed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "Октябрьский",
+  "Number": "",
+  "Expected": "failed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "Октябрьский",
+  "Number": "!",
+  "Expected": "failed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "Октябрьский",
+  "Number": "___",
+  "Expected": "failed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  },
+  {
+  "Name": "Октябрьский",
+  "Number": "*",
+  "Expected": "failed",
+  "NewName": "",
+  "NewNumber": "",
+  "NewExpected": ""
+  }
+ ]
